@@ -7,4 +7,4 @@
 
 Feel free to reach out to me for collaborations or just to say hi!
 
-- ⚡ **Fun Fact:** AI isn't just only LLMs.
+- ⚡ **Fun Fact:** AI isn't just  LLMs.
